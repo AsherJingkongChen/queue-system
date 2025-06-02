@@ -1,9 +1,9 @@
-# Random Sample
+# Queue System
 
-Please check out my report at [random_sample.pdf](./random_sample.pdf)
+Please check out my report at [queue_system.pdf](./queue_system.pdf)
 
 ## Reproduction
 
 ```shell
-jupyter nbconvert --to webpdf --execute random_sample.ipynb
+jupyter nbconvert --to webpdf --execute queue_system.ipynb
 ```
